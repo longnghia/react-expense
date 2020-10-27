@@ -7,4 +7,4 @@ git commit - Creates a new commit with files from staging area
 git log - View recent commits
 
 ## Test at:
-https://longhia.github.io/react-expense/
+https://longnghia.github.io/react-expense/
